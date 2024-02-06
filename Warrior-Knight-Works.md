@@ -28,8 +28,8 @@
 | 2 | [Weekly Recap : Injective WEEK #2 JANUARY 🥷🏻](https://x.com/INJNaruto/status/1746200567440113935?s=20)  | 21.7K | Thread  | Liked + Reposted by @Injective_  |
 | 3 | [Discord Community Call : Injective + Gryphon_fi](https://twitter.com/INJNaruto/status/1742867268047143166?s=20)  | 16.6K | Tweet  | Liked + Reposted by @Injective_  |
 | 3 | [🥷🏻 Injective Weekly Burn Auction ](https://x.com/INJNaruto/status/1751496169224798695?s=20)  | 14.6K | Tweet  | Liked + Reposted by @Injective_  |
-| 4 | [Weekly Recap : Injective WEEK #3 JANUARY 🥷🏻](https://x.com/INJNaruto/status/1748657171410399454?s=20) | 2.19K | Liked + Commented by @Injective_ |
-| 5 | [On-Chain Weekly Recap: Injective WEEK #2 JANUARY 🥷🏻](https://x.com/INJNaruto/status/1746411790815346723?s=20) | 598 | Liked + Commented by @Injective_ 
+| 4 | [Weekly Recap : Injective WEEK #3 JANUARY 🥷🏻](https://x.com/INJNaruto/status/1748657171410399454?s=20) | 2.19K | Thread | Liked + Commented by @Injective_ |
+| 5 | [On-Chain Weekly Recap: Injective WEEK #2 JANUARY 🥷🏻](https://x.com/INJNaruto/status/1746411790815346723?s=20) | 598 | Tweet | Liked + Commented by @Injective_ 
 
 
 
