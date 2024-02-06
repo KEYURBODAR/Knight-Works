@@ -75,4 +75,4 @@
 |	49	|	[Integration : Injective + Starship](https://x.com/INJNaruto/status/1740313274514862167?s=20)	|	110	|	Tweet	|		|	![image](https://pbs.twimg.com/media/GCbVLYtbsAAh_Gj?format=jpg&name=small)	|
 |	50	|	[Integration : Injective + Bonfida](https://x.com/INJNaruto/status/1740663166273794214?s=20)	|	63	|	Tweet	|		|	![image](https://pbs.twimg.com/media/GCgTk6YaMAAQfdE?format=jpg&name=large)	|
 |	51	|	[Integration : Injective + Icon](https://x.com/INJNaruto/status/1744669757339758686?s=20)	|	124	|	Tweet	|		|	![image](https://pbs.twimg.com/media/GDZNZiSaYAE3c5h?format=png&name=small)	|
-| | Total Views | 97636 | | | |
+| | Total Views | >97K | | | |
