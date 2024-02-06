@@ -1,4 +1,4 @@
-# Naruto-February-2024
+# Naruto February 2024 ( Warrior + Knight Works )
 | Platform   | Username                                      |
 | ---------- | --------------------------------------------- |
 | Twitter    | [@INJNaruto](https://twitter.com/INJNaruto)     |
