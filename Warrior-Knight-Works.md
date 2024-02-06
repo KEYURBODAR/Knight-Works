@@ -22,9 +22,9 @@
 | 4    | [Creator Show Case](https://discord.com/channels/739552603322450092/1122560787513352272/1201156484814360606)        | 1st  | -        |
 | 5      | [Community Support Event](https://discord.com/channels/739552603322450092/1122560787513352272/1197904543116169276)   | 2nd | -        |
 # Warrior Works
-|    | URL                                                                                                                | Views | Type         | Remark                     |
-| -- | ------------------------------------------------------------------------------------------------------------------ | ----- | -----------  | -------------------------  |
-| 1 | [Weekly Recap : Injective WEEK #4 JANUARY 🥷🏻](https://x.com/INJNaruto/status/1751154013876408810?s=20)  | 19.2K | Thread  | Liked + Reposted by @Injective_  |
+|    | URL                                                                                                                | Views | Type         | Remark                     | Graphics                                |
+| -- | ------------------------------------------------------------------------------------------------------------------ | ----- | -----------  | -------------------------  | ----------------------------- |
+| 1 | [Weekly Recap : Injective WEEK #4 JANUARY 🥷🏻](https://x.com/INJNaruto/status/1751154013876408810?s=20)  | 19.2K | Thread  | Liked + Reposted by @Injective_  | ![image](https://pbs.twimg.com/media/GDvAJgbagAA-Em-?format=jpg&name=4096x4096)
 | 2 | [Weekly Recap : Injective WEEK #2 JANUARY 🥷🏻](https://x.com/INJNaruto/status/1746200567440113935?s=20)  | 21.7K | Thread  | Liked + Reposted by @Injective_  |
 | 3 | [Discord Community Call : Injective + Gryphon_fi](https://twitter.com/INJNaruto/status/1742867268047143166?s=20)  | 16.6K | Tweet  | Liked + Reposted by @Injective_  |
 | 3 | [🥷🏻 Injective Weekly Burn Auction ](https://x.com/INJNaruto/status/1751496169224798695?s=20)  | 14.6K | Tweet  | Liked + Reposted by @Injective_  |
