@@ -1,10 +1,13 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=KEYURBODAR.Naruto-Feb-2024" />
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Naruto!;" />
-
+    
 <a href="https://twitter.com/injnaruto" target="blank"><img src="https://img.shields.io/twitter/follow/injnaruto?logo=X&style=for-the-badge" alt="injnaruto" /></a>
 
-![](https://dcbadge.vercel.app/api/shield/1138456070814179329)
+![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/Injnaruto)
+
+
+![](https://dcbadge.vercel.app/api/shield/1138456070814179329) 
 
 # Referral
 | Discord Username                                      | Status     | Proof                                      |
