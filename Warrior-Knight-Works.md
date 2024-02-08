@@ -1,3 +1,5 @@
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Naruto.Naruto-Feb-2024" />
+
 # Naruto February 2024 ( Warrior + Knight Works )
 | Platform   | Username                                      |
 | ---------- | --------------------------------------------- |
