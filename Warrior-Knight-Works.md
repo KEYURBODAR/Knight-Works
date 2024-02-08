@@ -4,9 +4,6 @@
     
 <a href="https://twitter.com/injnaruto" target="blank"><img src="https://img.shields.io/twitter/follow/injnaruto?logo=X&style=for-the-badge" alt="injnaruto" /></a>
 
-![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/Injnaruto)
-
-
 ![](https://dcbadge.vercel.app/api/shield/1138456070814179329) 
 
 # Referral
