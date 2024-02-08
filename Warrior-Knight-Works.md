@@ -1,4 +1,8 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Naruto.Naruto-Feb-2024" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=KEYURBODAR.Naruto-Feb-2024" />
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Naruto!;" />
+</h1>
+
 
 # Naruto February 2024 ( Warrior + Knight Works )
 | Platform   | Username                                      |
