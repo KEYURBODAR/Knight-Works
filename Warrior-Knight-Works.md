@@ -1,18 +1,11 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=KEYURBODAR.Naruto-Feb-2024" />
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Naruto!;" />
-</h1> <a href="https://twitter.com/injnaruto" target="blank"><img src="https://img.shields.io/twitter/follow/injnaruto?logo=twitter&style=for-the-badge" alt="injnaruto" /></a>
+
+<a href="https://twitter.com/injnaruto" target="blank"><img src="https://img.shields.io/twitter/follow/injnaruto?logo=X&style=for-the-badge" alt="injnaruto" /></a>
 
 ![](https://dcbadge.vercel.app/api/shield/1138456070814179329)
-[![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=Twitter&fill=26a7de&text=false&animation=spin)](https://x.com/INJNaruto)
 
-
-| Platform   | Username                                      |
-| ---------- | --------------------------------------------- |
-| Twitter    | [@INJNaruto](https://twitter.com/INJNaruto)     |
-| Discord    | [@I.as.keyur](https://discord.com/users/1183339956274479186)  |
-| Telegram   | [@curiouskeyur](https://t.me/curiouskeyur)           |
-| INJ Address| `inj1j0t7zeafazz33xx22a62esvghcyxwzzxeshv2z` |
 # Referral
 | Discord Username                                      | Status     | Proof                                      |
 | ---------------------------------------------  | ---------  | ----------------------------------------- |
