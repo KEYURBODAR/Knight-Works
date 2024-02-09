@@ -2,9 +2,9 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Naruto!;" />
     
-<a href="https://twitter.com/injnaruto" target="blank"><img src="https://img.shields.io/twitter/follow/injnaruto?logo=X&style=for-the-badge" alt="injnaruto" /></a>
-
-![](https://dcbadge.vercel.app/api/shield/1138456070814179329) 
+<p align="center" > 
+ <a href="https://twitter.com/bodarkeyur_" target="blank"><img src="https://img.shields.io/twitter/follow/injnaruto?logo=X&style=for-the-badge&" alt="injnaruto" /></a>
+<img src="https://dcbadge.vercel.app/api/shield/1138456070814179329" alt=""> </p>
 
 # Referral
 | Discord Username                                      | Status     | Proof                                      |
@@ -13,7 +13,7 @@
 # Progress
 | Discord   | Twitter                                      |
 | --------  | -----------                                  |
-| --------  | -------                                      |
+| i will submit | end of the month|
 # Contests that I won
 |                     | Contest                   | Rank                                         | Reward    |
 | -       | --------                  | -------                                      | ------    |
