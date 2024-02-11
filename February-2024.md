@@ -4,7 +4,7 @@
     
 <p align="center" > 
  <a href="https://twitter.com/bodarkeyur_" target="blank"><img src="https://img.shields.io/twitter/follow/injnaruto?logo=X&style=for-the-badge&" alt="injnaruto" /></a>
-<img src="https://dcbadge.vercel.app/api/shield/1138456070814179329" alt=""> </p>
+<a href="https://discord.com/users/1138456070814179329> "<img src="https://dcbadge.vercel.app/api/shield/1138456070814179329" alt=""></a> </p>
 
 # Referral
 | Discord Username                                      | Status     | Proof                                      |
