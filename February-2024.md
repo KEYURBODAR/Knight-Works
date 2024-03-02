@@ -4,16 +4,19 @@
     
 <p align="center" > 
  <a href="https://twitter.com/bodarkeyur_" target="blank"><img src="https://img.shields.io/twitter/follow/injnaruto?logo=X&style=for-the-badge&" alt="injnaruto" /></a>
-<a href="https://discord.com/users/1138456070814179329"> <img src="https://dcbadge.vercel.app/api/shield/1138456070814179329" alt=""></a> </p>
+<a href="https://discord.com/users/1138456070814179329"> <img src="https://dcbadge.vercel.app/api/shield/1138456070814179329" alt=""> </a> 
+    <a href="https://medium.com/@keyurbodar16"> <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="@Keyurbodar16" /> </a>
+</p>
 
 # Referral
 | Discord Username                                      | Status     | Proof                                      |
 | ---------------------------------------------  | ---------  | ----------------------------------------- |
-| @nitinverma7601                                | Warrior    | ![image](https://imagehost9.online-image-editor.com/oie_upload/images/61049341Z797A2/wyDoScAo1aLm.png) |
+| @nitinverma7601                                | Warrior    | ![image](https://cdn.discordapp.com/attachments/1138458192263778414/1213354126889582654/zE6ydNINzSyA.png?ex=65f52b16&is=65e2b616&hm=ecad0653ce98cc7122bdde4d5ebeb4315518a116239e43840576ed178e49d8db&) |
 # Progress
 | Discord   | Twitter                                      |
-| --------  | -----------                                  |
-| i will submit | end of the month|
+| - | - |
+| ![image](https://cdn.discordapp.com/attachments/897951807207268363/1213348239349383178/card.png?ex=65f5259b&is=65e2b09b&hm=4018e74caeff77fc4fc0ec708932ab31fea8c77e9236687ba23f73f05d1f9fd9&) | ![image](https://media.discordapp.net/attachments/1138458192263778414/1213351972275617835/xXFM5Ov74jLh.png?ex=65f52915&is=65e2b415&hm=39754f3fa65ff66d7c2857ab59610ba06792efd6fb11934c1659b62ff250432b&=&format=webp&quality=lossless) |
+| Mostly active in Indian community and as well as I also help in general and warrior channels. | This is the time period from Warrior ( 9th Dec, 2023 ) to Knight ( 29th Feb, 2024 ), I earned over 215K Impressions |
 # Contests that I won
 |                     | Contest                   | Rank                                         | Reward    |
 | -       | --------                  | -------                                      | ------    |
@@ -23,16 +26,17 @@
 | 4    | [Creator Show Case](https://discord.com/channels/739552603322450092/1122560787513352272/1201156484814360606)        | 1st  | -        |
 | 5      | [Community Support Event](https://discord.com/channels/739552603322450092/1122560787513352272/1197904543116169276)   | 2nd | -        |
 # Warrior Works
+### Over >97K Views during my warrior journey!
 |		|	URL	|	Views	|	Type	|	Remark	|	Graphics	|
 |	--	|	-------	|	-----	|	---	|	----------	|	----	|
-|	1	|	[Weekly Recap : Injective WEEK #4 JANUARY 🥷🏻        ](https://x.com/INJNaruto/status/1751154013876408810?s=20)	|	19.2K	|	Thread	|	Liked + Reposted by @Injective_	|	![image](https://pbs.twimg.com/media/GE1ZSgBawAAg8sK?format=jpg&name=4096x4096)	|
-|	2	|	[Weekly Recap : Injective WEEK #2 JANUARY 🥷🏻        ](https://x.com/INJNaruto/status/1746200567440113935?s=20)	|	21.7K	|	Thread	|	Liked + Reposted by @Injective_	|	![image](https://pbs.twimg.com/media/GDvAJgbagAA-Em-?format=jpg&name=4096x4096)	|
-|	3	|	[Discord Community Call : Injective + Gryphon_fi	](https://twitter.com/INJNaruto/status/1742867268047143166?s=20)"	|	16.6K	|	Tweet	|	Liked + Reposted by @Injective_	|	![image](https://pbs.twimg.com/media/GC_oc_jbkAA5FW3?format=jpg&name=large)	|
+|	1	|	[Weekly Recap : Injective WEEK #4 JANUARY 🥷🏻        ](https://x.com/INJNaruto/status/1751154013876408810?s=20)	|	19.2K	|	Thread	|	Reposted by @Injective	|	![image](https://pbs.twimg.com/media/GE1ZSgBawAAg8sK?format=jpg&name=4096x4096)	|
+|	2	|	[Weekly Recap : Injective WEEK #2 JANUARY 🥷🏻        ](https://x.com/INJNaruto/status/1746200567440113935?s=20)	|	21.7K	|	Thread	|	 Reposted by @Injective	|	![image](https://pbs.twimg.com/media/GDvAJgbagAA-Em-?format=jpg&name=4096x4096)	|
+|	3	|	[Discord Community Call : Injective + Gryphon_fi	](https://twitter.com/INJNaruto/status/1742867268047143166?s=20)"	|	16.6K	|	Tweet	|	Reposted by @Injective	|	![image](https://pbs.twimg.com/media/GC_oc_jbkAA5FW3?format=jpg&name=large)	|
 |	4	|	[🥷🏻 Injective Weekly Burn Auction 	](https://x.com/INJNaruto/status/1751496169224798695?s=20)"	|	14.6K	|	Tweet	|	Liked + Reposted by @Injective_	|	![image](https://pbs.twimg.com/media/GE6MfGpbkAAZZOC?format=jpg&name=large)	|
-|	5	|	[Weekly Recap : Injective WEEK #3 JANUARY 🥷🏻	](https://x.com/INJNaruto/status/1748657171410399454?s=20)"	|	2191	|	Thread	|	Liked + Commented by @Injective_	|	![image](https://pbs.twimg.com/media/GER6acJbQAA2p8K?format=jpg&name=large)	|
-|	6	|	[On-Chain Weekly Recap: Injective WEEK #2 JANUARY 🥷🏻](https://x.com/INJNaruto/status/1746411790815346723?s=20)	|	599	|	Tweet	|	Liked + Commented by @Injective_	|	![image](https://pbs.twimg.com/media/GDx7YQpacAAwwez?format=jpg&name=large)	|
-|	7	|	[Weekly Recap : Injective WEEK #1 JANUARY 🥷🏻	](https://x.com/INJNaruto/status/1743343619774562563?s=20)"	|	646	|	Thread	|	Liked + Commented by @Injective_	|	![image](https://pbs.twimg.com/media/GDGZxzYbQAADIqa?format=jpg&name=large)	|
-|	8	|	[A Reminder : Injective Volan Mainnet Proposol](https://x.com/INJNaruto/status/1744297824542732713?s=20)	|	1545	|	Tweet	|	Liked by @Injective_	|	![image](https://pbs.twimg.com/media/GDT6OUWaQAAbXoR?format=jpg&name=large)	|
+|	5	|	[Weekly Recap : Injective WEEK #3 JANUARY 🥷🏻	](https://x.com/INJNaruto/status/1748657171410399454?s=20)"	|	2191	|	Thread	|	Commented by @Injective	|	![image](https://pbs.twimg.com/media/GER6acJbQAA2p8K?format=jpg&name=large)	|
+|	6	|	[On-Chain Weekly Recap: Injective WEEK #2 JANUARY 🥷🏻](https://x.com/INJNaruto/status/1746411790815346723?s=20)	|	599	|	Tweet	|	Commented by @Injective	|	![image](https://pbs.twimg.com/media/GDx7YQpacAAwwez?format=jpg&name=large)	|
+|	7	|	[Weekly Recap : Injective WEEK #1 JANUARY 🥷🏻	](https://x.com/INJNaruto/status/1743343619774562563?s=20)"	|	646	|	Thread	|	Commented by @Injective	|	![image](https://pbs.twimg.com/media/GDGZxzYbQAADIqa?format=jpg&name=large)	|
+|	8	|	[A Reminder : Injective Volan Mainnet Proposol](https://x.com/INJNaruto/status/1744297824542732713?s=20)	|	1545	|	Tweet	|	Liked by @Injective	|	![image](https://pbs.twimg.com/media/GDT6OUWaQAAbXoR?format=jpg&name=large)	|
 |	9	|	[Injective Ecosystem Airdrops	](https://x.com/INJNaruto/status/1742562088504148333?s=20)"	|	2442	|	Thread	|		|	![image](https://pbs.twimg.com/media/GC7S-TfbIAALF4G?format=jpg&name=large)	|
 |	10	|	[Injective TVL Growth](https://x.com/INJNaruto/status/1747562026036253010?s=20)	|	1936	|	Tweet	|		|	![image](https://pbs.twimg.com/media/GECU2hmbMAAy59s?format=jpg&name=large)	|
 |	11	|	[Mito Finance One - Page Overview](https://x.com/INJNaruto/status/1740635335237972113?s=20)	|	191	|	Tweet	|		|	![image](https://pbs.twimg.com/media/GCf6nHqbIAA_GR-?format=jpg&name=large)	|
@@ -76,4 +80,20 @@
 |	49	|	[Integration : Injective + Starship](https://x.com/INJNaruto/status/1740313274514862167?s=20)	|	110	|	Tweet	|		|	![image](https://pbs.twimg.com/media/GCbVLYtbsAAh_Gj?format=jpg&name=large)	|
 |	50	|	[Integration : Injective + Bonfida](https://x.com/INJNaruto/status/1740663166273794214?s=20)	|	63	|	Tweet	|		|	![image](https://pbs.twimg.com/media/GCgTk6YaMAAQfdE?format=jpg&name=large)	|
 |	51	|	[Integration : Injective + Icon](https://x.com/INJNaruto/status/1744669757339758686?s=20)	|	124	|	Tweet	|		|	![image](https://pbs.twimg.com/media/GDZNZiSaYAE3c5h?format=png&name=large)	|
-| | Total Views | >97K | | | |
+
+# Knight Works ( 1st Feb - 29th Feb )
+### Over >70K Views in February
+|		|	URL	|	Views	|	Type	|	Remark	|	Graphics	|
+|	--	|	-------	|	-----	|	---	|	----------	|	----	|
+| 1 | [🥷🏻 Average gas fee comparison : @Injective_vs Other Blockchain!](https://x.com/INJNaruto/status/1754763607454175629?s=20) | 14.9K | Tweet |  Reposted by @Injective | ![image](https://pbs.twimg.com/media/GFoqmBuWYAAcYY8?format=jpg&name=large) |
+| 2 | [🥷🏻 @Injective 𝗥𝗲𝗰𝗮𝗽 𝗪𝗲𝗲𝗸 #𝟯 𝗙𝗲𝗯𝗿𝘂𝗮𝗿𝘆](https://x.com/INJNaruto/status/1759086654294479197?s=20) | 46.7K | Thread | Reposted by @Injective | ![image](https://pbs.twimg.com/media/GGmH_BCbgAAE5ED?format=jpg&name=large) |
+| 3 | [Mito - One Pager](https://x.com/INJNaruto/status/1760930235082588323?s=20) | 1K | Tweet | Liked by @Injective | ![image](https://pbs.twimg.com/media/GHASsnkXcAALFSB?format=jpg&name=large) |
+| 4 | [🥷🏻 New Validator : @Injective + @decentriolabs](https://x.com/INJNaruto/status/1758492305042882856?s=20) | 951 | Tweet | | ![image](https://pbs.twimg.com/media/GGdp5dlWAAA3bfK?format=jpg&name=large) |
+| 5 | [🥷🏻 @Injective 𝗥𝗲𝗰𝗮𝗽 𝗪𝗲𝗲𝗸 #4 𝗙𝗲𝗯𝗿𝘂𝗮𝗿𝘆](https://x.com/INJNaruto/status/1761620406707118274?s=20) | 644 | Thread | | ![image](https://pbs.twimg.com/media/GHKIa0jagAA_VIa?format=jpg&name=large) |
+| 6 | [@Injective 𝗥𝗲𝗰𝗮𝗽 𝗪𝗲𝗲𝗸 #2 𝗙𝗲𝗯𝗿𝘂𝗮𝗿𝘆](https://x.com/INJNaruto/status/1756231457985716708?s=20) | 456 | Thread | | ![image](https://pbs.twimg.com/media/GF9jMa1b0AAJyc6?format=jpg&name=large) |
+| 7 | [🥷🏻 @Injective 𝗥𝗲𝗰𝗮𝗽 𝗪𝗲𝗲𝗸 #1 𝗙𝗲𝗯𝗿𝘂𝗮𝗿𝘆](https://x.com/INJNaruto/status/1753699108509155786?s=20) | 986 | Thread | | ![image](https://pbs.twimg.com/media/GFZkCfjasAAb605?format=jpg&name=large) |
+| 8 | [🥷🏻 Discord Community Call : @Injective + @timeworx_io](https://x.com/INJNaruto/status/1755497801453084925?s=20) | 526 | Tweet | | ![image](https://pbs.twimg.com/media/GFzF6VGWMAAjlEw?format=jpg&name=large) |
+| 9 | [Helix Weekly Volume](https://x.com/INJNaruto/status/1755089027223499021?s=20) | 313 | | | ![image](https://pbs.twimg.com/media/GFtMWc8XQAIIfYR?format=jpg&name=large) |
+| 10 | [Injective Trending on X](https://x.com/INJNaruto/status/1759262582991470824?s=20) | 2.8K | Tweet | | | 
+| 11 | [Injective crossed Over 500K Followers on X](https://x.com/INJNaruto/status/1760865501461336091?s=20) | 562 | Tweet | | |
+| 12 | [Solana vs Injective](https://x.com/INJNaruto/status/1752943118746636292?s=20) | 375 | Tweet | | |
